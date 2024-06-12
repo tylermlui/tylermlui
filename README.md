@@ -1,5 +1,5 @@
 <h1 align="left">Tyler Lui</h1>
-**`I am a Third-year Computer Science student at Cal State Fullerton`**
+** `I am a Third-year Computer Science student at Cal State Fullerton` **
 <h4 align ="left"> tylerlui@gmail.com</h4>
 
 

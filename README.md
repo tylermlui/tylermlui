@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tyler Lui</h1>
 <h3 align="center">I am a Third-year Computer Science student at Cal State Fullerton</h3>
-Email: tylerlui@gmail.com
+<p align ="center"> tylerlui@gmail.com</p>
 
 
 ## 🌐 Socials:

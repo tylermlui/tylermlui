@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tyler Lui</h1>
+<h1 align="center">Tyler Lui</h1>
 <h3 align="center">I am a Third-year Computer Science student at Cal State Fullerton</h3>
 <p align ="center"> tylerlui@gmail.com</p>
 

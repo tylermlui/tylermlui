@@ -1,5 +1,5 @@
 <h1 align="left">Tyler Lui</h1>
-<h3 align="left"> I am a Third-year Computer Science student at Cal State Fullerton</h3>
+<h3 align="left"> I am a Fourth-year Computer Science student at Cal State Fullerton</h3>
 <h4 align ="left"> tylerlui@gmail.com</h4>
 
 
